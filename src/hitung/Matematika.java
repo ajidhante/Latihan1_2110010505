@@ -15,4 +15,19 @@ public class Matematika {
         return bil1 + bil2;
     }
 
+    //membuat setPengurangan
+    public double setPengurangan (){
+        return bil1 - bil2;
+    }
+        
+    //membuat setPerkalian
+    public double setPerkalian (){
+        return bil1 * bil2;
+    }
+        
+    //membuat setPembagian
+    public double setPembagian (){
+        return bil1 / bil2;
+    }
+      
 }
